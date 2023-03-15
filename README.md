@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arojasvargas
-- 👀 Aiming to leverage academic experience and a proven knowledge of R&D, cloud computing and product development cycle to successfully fill the Systems Engineer role.
-- 🌱 I’m currently learning Front-End Development and reinforcing Back-End knowledge
+- 👀 SRE at Akamai Technologies
+- Based in Costa Rica
+- 🌱 I am currently focused on cloud computing and expanding my knowledge of Azure
 - 📫 How to reach me: [alex.rojas547@outlook.com](mailto:alex.rojas547@outlook.com)
 
 <!---
