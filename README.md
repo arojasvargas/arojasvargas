@@ -19,7 +19,7 @@ Currently, I am focusing on learning Linux, Azure, and Kubernetes to improve the
 
 - Proficient in on-demand technologies: Front-End, Back-End, SQL Databases, NoSQL Databases and Azure cloud platform.
 - Knowledge of relevant concepts: CI/CD, SCRUM and Agile methodologies.
-- Familiarity with relevant programming languages: Java, PHP, Python, React and Angular.
+- Familiarity with relevant programming languages: Javascript, Python, and C#.
 
 ## My Certifications
 
